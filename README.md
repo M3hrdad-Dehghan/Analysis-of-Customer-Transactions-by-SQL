@@ -2,7 +2,7 @@
 
 In this project, we’ll begin by exploring a realistic dataset featuring five tables: one fact table for transactions and four dimension tables supporting it. We’ll examine the relationships between these tables through an entity-relationship diagram and create a structured database from scratch. You’ll learn to define primary keys, establish table relationships, and create tables using the SQL Server GUI and queries. After populating the database with data, we’ll address real-world business questions, such as identifying high-spending customers and their provinces, analyzing daily spending by customer category, and identifying inactive customers by year. Let’s dive into the world of SQL and unlock valuable insights from data!.
 
-[![Watch Video of the Project ](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@Mer_Dehghan)
+[![Watch Video of the Project](https://img.shields.io/badge/YouTube-Watch_Video-red)](https://youtu.be/ZOtaAoEYXes)
 
 ## Project's Sections
 
