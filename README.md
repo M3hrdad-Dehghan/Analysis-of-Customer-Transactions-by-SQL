@@ -1,6 +1,4 @@
-# Project Title
-
-![Project Banner](https://via.placeholder.com/1200x300.png?text=Project+Banner)
+# **Building a Database and Analyzing Real-World Business Insights!**
 
 ## About the Project
 
@@ -12,10 +10,10 @@ In this project, we’ll begin by exploring a realistic dataset featuring five t
 - Introduction
 - Look at Data
 - Look at Relationships
-- reate Database
+- Create Database
 - Create Tables
 - Define Primary Keys
-- Draw Entity Diagram of Tables
+- Draw Entity Relationship Diagram
 - Ingest Data to Database
 - Question 1: Identify High-Spending Customers and Their Provinces
 - Question 2: Daily Spending by Customer Category
