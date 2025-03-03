@@ -44,6 +44,6 @@ In this project, we’ll begin by exploring a realistic dataset featuring five t
 
 ## Contact
 
-Linkedin Profile - [ https://www.linkedin.com/in/mehrdad-dehghan ]
-YouTube Channel - [ https://www.youtube.com/@Mer_Dehghan ]
-Gmail - [ Mansourdehghan.Mehrdad@gmail.com ]
+- Linkedin Profile - [ https://www.linkedin.com/in/mehrdad-dehghan ]
+- YouTube Channel - [ https://www.youtube.com/@Mer_Dehghan ]
+- Gmail - [ Mansourdehghan.Mehrdad@gmail.com ]
