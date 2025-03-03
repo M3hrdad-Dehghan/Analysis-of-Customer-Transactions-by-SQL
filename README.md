@@ -38,6 +38,6 @@ gh repo clone M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL
 
 ## Contact
 
-- [(https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mehrdad-dehghan)
-- [(https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@Mer_Dehghan)
-- [(https://img.shields.io/badge/Gmail-Mail-red)](mailto:Mansourdehghan.Mehrdad@gmail.com)
+- [![Follow me on Linkedin  ](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/mehrdad-dehghan)
+- [![Watch my other videos  ](https://img.shields.io/badge/YouTube-Channel-red)](https://www.youtube.com/@Mer_Dehghan)
+- [![Contact with me  ](https://img.shields.io/badge/Gmail-Mail-red)](mailto:Mansourdehghan.Mehrdad@gmail.com)
