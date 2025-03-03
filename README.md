@@ -7,6 +7,7 @@
 In this project, we’ll begin by exploring a realistic dataset featuring five tables: one fact table for transactions and four dimension tables supporting it. We’ll examine the relationships between these tables through an entity-relationship diagram and create a structured database from scratch. You’ll learn to define primary keys, establish table relationships, and create tables using the SQL Server GUI and queries. After populating the database with data, we’ll address real-world business questions, such as identifying high-spending customers and their provinces, analyzing daily spending by customer category, and identifying inactive customers by year. Let’s dive into the world of SQL and unlock valuable insights from data!.
 
 <hr>
+
 ## Project's Sections
 
 - Introduction
@@ -21,12 +22,14 @@ In this project, we’ll begin by exploring a realistic dataset featuring five t
 - Question 2: Daily Spending by Customer Category
 - Question 3: Inactive Customers by Year
 
+<hr>
 
 ## Languages / Tools
 
 - Microsoft SQL Server
 - SSMS (SQL Server Management Studio)
 
+<hr>
 
 ## Clone to Repository
 
@@ -41,6 +44,7 @@ In this project, we’ll begin by exploring a realistic dataset featuring five t
    ```CL
    gh repo clone M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL
    ```
+<hr>
 
 ## Contact
 
