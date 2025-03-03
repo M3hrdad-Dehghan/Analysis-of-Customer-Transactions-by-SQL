@@ -17,8 +17,12 @@ A brief description of what your project does and who it's for.
    git clone https://github.com/M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL.git
    ```
 
-   ```HTTP
-   git clone https://github.com/M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL.git
+   ```SSH
+   git@github.com:M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL.git
+   ```
+
+   ```CL
+   gh repo clone M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL
    ```
 
 ## Contact
