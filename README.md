@@ -13,8 +13,12 @@ A brief description of what your project does and who it's for.
 
 ## Clone to Repository
 
-   ```sh
-   git clone https://github.com/M3hrdad-Dehghan/your-repo.git
+   ```HTTP
+   git clone https://github.com/M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL.git
+   ```
+
+   ```HTTP
+   git clone https://github.com/M3hrdad-Dehghan/Analysis-of-Customer-Transactions-by-SQL.git
    ```
 
 ## Contact
