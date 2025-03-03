@@ -20,6 +20,7 @@ In this project, we’ll begin by exploring a realistic dataset featuring five t
 
 ## Languages / Tools
 
+- SQL / TSQL
 - Microsoft SQL Server
 - SSMS (SQL Server Management Studio)
 
